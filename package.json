@@ -23,6 +23,7 @@
   "homepage": "https://github.com/AndroAndrei/geometrics_site#readme",
   "dependencies": {
     "@formkit/tempo": "^0.1.1",
-    "d3": "^7.9.0"
+    "d3": "^7.9.0",
+    "datatables.net-dt": "^2.0.7"
   }
 }
