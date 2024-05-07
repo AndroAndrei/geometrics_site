@@ -1,0 +1,24 @@
+{
+  "name": "geometric_site",
+  "version": "1.0.0",
+  "description": "Estadísticas desde la Web en base a información geográfica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AndroAndrei/geometrics_site.git"
+  },
+  "keywords": [
+    "gis",
+    "geo",
+    "d3"
+  ],
+  "author": "Lenin Rojas (AndroAndrei)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndroAndrei/geometrics_site/issues"
+  },
+  "homepage": "https://github.com/AndroAndrei/geometrics_site#readme"
+}
